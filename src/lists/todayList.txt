@@ -1,0 +1,7 @@
+Add a task by pressing "Enter Key",2022-04-06
+OR you can press the + button,2022-04-06
+<- Mark this task as complete ,2022-04-06
+Delete this task by clicking the x ->,2022-04-06
+Double Click this task to edit ,2022-04-06
+Delete all tasks to see a message!,2022-04-06
+Find the secret feature !!!,2022-04-06
